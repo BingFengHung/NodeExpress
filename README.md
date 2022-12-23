@@ -14,4 +14,6 @@ Node.js Express with ejs engine
   > npm i -D nodemon
 
 ## app.js 起始路徑
+npm init -y
+
 packages scripts 加入指令 nodemon app
