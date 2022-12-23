@@ -17,3 +17,8 @@ Node.js Express with ejs engine
 npm init -y
 
 packages scripts 加入指令 nodemon app
+
+## 參考
+[ejs](https://ejs.co/#promo)
+
+[Express](https://expressjs.com/)
